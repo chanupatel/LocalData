@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/CNK-PRACTICE/.idea/CNK-PRACTICE.iml" filepath="E:/CNK-PRACTICE/.idea/CNK-PRACTICE.iml" />
+      <module fileurl="file://E:/Xampp/htdocs/.idea/htdocs.iml" filepath="E:/Xampp/htdocs/.idea/htdocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysite.iml" filepath="$PROJECT_DIR$/.idea/mysite.iml" />
+    </modules>
+  </component>
+</project>
